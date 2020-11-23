@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to Elie 👋</h1>
+<h1 align="center">Hello  Elie 👋</h1>
 <p>
   <img alt="Version" src="https://img.shields.io/badge/version-1.0-blue.svg?cacheSeconds=2592000" />
   <a href="devdocs.io" target="_blank">
@@ -8,7 +8,7 @@
 
 > Node est le runtime qui permet d'écrire toutes nos tâches côté serveur, en JavaScript, telles que la logique métier, la persistance des données et la sécurité. Node ajoute également des fonctionnalités que le JavaScript du navigateur standard ne possède pas, comme par exemple l'accès au système de fichiers local.
 
-## Install
+## Installe
 
 ```sh
 npm init
@@ -20,13 +20,13 @@ npm init
 git clone https://github.com/didicluber/Elie.git
 ```
 
-## Run tests
+## Lancement du serveur
 
 ```sh
 node server.js
 ```
 
-## Author
+## Auteur
 
 👤 **Sky Keys ( Dylan Ouanounou )**
 
