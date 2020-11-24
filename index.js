@@ -4,7 +4,7 @@ var fs = require('fs');
 //2.
 var server = http.createServer(function (req, resp) {
     //3.
-    if (req.url === "/create") {
+    if (req.url === "/") {
         fs.readFile("index.html", function (error, pgResp) {
             if (error) {
                 resp.writeHead(404);
