@@ -23,7 +23,7 @@ var server = http.createServer(function (req, resp) {
         resp.end();
     }
 });
-//5. ecoute du port 
+//5. ecoute du port
 server.listen(port);
 
 console.log(`Serveur: localhost:${port}`)
