@@ -1,0 +1,14 @@
+	/* feuille de style pour la page premier.html */
+
+
+body {
+    background:url('./image/tableau-paysage-clair-obscur-.jpg') no-repeat center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+
+
+
